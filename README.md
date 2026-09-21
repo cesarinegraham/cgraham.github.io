@@ -1,17 +1,16 @@
-# dannycab.github.io 🚀
+# cesarinegraham.github.io 🚀
 
-This is the source repository for [dannycab.github.io](https://dannycab.github.io/), the academic website of Prof. Danny Caballero. The site is built with [Hugo](https://gohugo.io/) using the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
+This is the source repository for [cesarinegraham.github.io](https://cesarinegraham.github.io/cgraham.github.io/), the academic website of Césarine Graham. The site is built with [Hugo](https://gohugo.io/) using the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme. It was cloned from Dr. Danny Callabero.
 
 ## About 👋
 
-This website hosts Danny Caballero's research papers, course materials, curriculum vitae, and contact information. It also features announcements, open educational resources (OER), and information about ongoing projects such as [OER Forge](https://oerforge.org) and the [Open Physics Education Network](https://openphysicsed.org).
+This website hosts Césarine Graham's work.
 
 ## Features ✨
 
 - 📚 Research, teaching, and OER sections  
 - 📰 Announcements and news posts  
 - 📄 Curriculum vitae and contact info  
-- ♿ Accessible, responsive design  
 - ⚡ Built with Hugo and PaperMod  
 
 ## Structure 🗂️
