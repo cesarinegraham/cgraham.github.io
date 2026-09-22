@@ -8,8 +8,7 @@ This website hosts Césarine Graham's work.
 
 ## Features ✨
 
-- 📚 Research, teaching, and OER sections  
-- 📰 Announcements and news posts  
+- 📚 Research, announcements, and news posts  
 - 📄 Curriculum vitae and contact info  
 - ⚡ Built with Hugo and PaperMod  
 
