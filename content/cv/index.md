@@ -10,7 +10,7 @@ Department of Physics & Planetary Sciences\
 University of Central Florida
 
 📪 <ce970069@ucf.edu>\
-💻 [cgraham.github.io](https://cesarinegraham.github.io/)
+💻 [cgraham.github.io](https://cesarinegraham.github.io/cgraham.github.io/cv/))
 
 
 
@@ -37,8 +37,6 @@ University of Central Florida
 
 ## academic experience
 
-### positions
-
 -   2025 -- Present, Student Researcher, Department of Physics and Planetary Sciences,
     University of Central Florida
 
@@ -53,7 +51,7 @@ University of Central Florida
 
 -   2020 -- 2022, Researcher, Society for Hydroponic and Aquaponic Systems, Embry-Riddle Aeronautical University
 
-### awards and honors
+## awards and honors
 
 -   2025 -- Univeristy of Central Florida Trustees Doctoral Fellowship,\
     *"For multi-year support to the most nominated applicants to the institution. Offers $25,000 per year for four years."*
