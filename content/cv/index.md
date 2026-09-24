@@ -14,18 +14,18 @@ University of Central Florida
 
 
 
-📄 full cv [(pdf)](../cgraham_cv.pdf)<br>📄 publications [(html)](/pubs/)
+📄 full cv [(pdf)](cgraham_cv.pdf)<br>📄 publications [(html)](/pubs/)
 
 ## education
 
 -   University of Central Florida (Orlando, FL)\
     Department of Physics and Planetary Sciences\
     Current Graduate Student\
-    Advisor: Prof. Lauren Mc Keown.
+    Advisor: Prof. Lauren Mc Keown
 
 -   Michigan State University (East Lansing, MI)\
     Department of Astronomy and Astrophysics\
-    Bachelor of Science in Astrophysics, Minor in Mathematics, 2024.
+    Bachelor of Science in Astrophysics, Minor in Mathematics, 2024
 
 ## professional experience
 
@@ -57,13 +57,12 @@ University of Central Florida
     *"For multi-year support to the most nominated applicants to the institution. Offers $25,000 per year for four years."*
 
 -   2023, 2024 -- Michigan State University Dean’s Research Scholar,\
-    [\[Press\]](https://aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Caballero&first_nm=Marcos&year=2023)\
     *"$1,500 scholarship, twice offered, for demonstration of excellent research in the Department of Natural Science."*
 
 -   2024 -- Michigan State University [U.U.R.A.F.](https://urca.msu.edu/forums/uuraf-2024) First Place Award.
 
 -   2023 -- Pui Kei Wong Endowed Scholarship\
-    [\[PDF]](https://natsci.msu.edu/_assets/files/students/current/undergraduate/2023-2024-scholarship-recipients.pdf)
+    [\[PDF\]](https://natsci.msu.edu/_assets/files/students/current/undergraduate/2023-2024-scholarship-recipients.pdf)
     *"$4,000 scholarship for demonstration of academic and research success as a Junior currently enrolled in a Bachelors of Science."*
 
 -   2023 -- Michigan State University Hampton Roads Spartans Scholarship Fund
