@@ -1,28 +1,16 @@
 ---
 title: "curriculum vita"
-date: 2025-05-16
+date: 2026-09-24
 hidemeta: true
-description: "Curriculum Vitae for Danny Caballero, Professor of Physics Education at Michigan State University."
+description: "Curriculum Vitae for Césarine Graham, Graduate Student in Physics and Planetary Sciences at the University of Central Florida."
 ---
 
-Marcos D. (Danny) Caballero (he/they)\
-Department of Physics & Astronomy\
-Department of Computational Mathematics, Science, & Engineering\
-CREATE for STEM Institute\
-Michigan State University
+Césarine Graham\
+Department of Physics & Planetary Sciences\
+University of Central Florida
 
-📪 <caball14@msu.edu>\
-💻 [dannycab.github.io](https://dannycab.github.io)
-
-📍 **Physical Addresses**
-
-> Biomedical and Physical Sciences Building\
-> 567 Wilson Rd., Room 1310A\
-> East Lansing, MI 48824
-
-> Engineering Building\
-> 428 S Shaw Ln, Room 1515A\
-> East Lansing, MI 48824
+📪 <ce970069@ucf.edu>\
+💻 [cgraham.github.io](https://cesarinegraham.github.io/)
 
 
 
@@ -30,134 +18,71 @@ Michigan State University
 
 ## education
 
--   Georgia Institute of Technology (Atlanta, GA) Doctor of Philosophy
-    in Physics, 2011\
-    Thesis: **Evaluating and Extending a Novel Course Reform of
-    Introductory Mechanics**\
-    Advisor: Prof. Michael F. Schatz
-    [\[Online\]]({http://arxiv.org/abs/1112.5593})
+-   University of Central Florida (Orlando, FL)\
+    Department of Physics and Planetary Sciences\
+    Current Graduate Student\
+    Advisor: Prof. Lauren Mc Keown.
 
--   Georgia Institute of Technology (Atlanta, GA) Master of Science in
-    Physics, 2007
+-   Michigan State University (East Lansing, MI)\
+    Department of Astronomy and Astrophysics\
+    Bachelor of Science in Astrophysics, Minor in Mathematics, 2024.
 
--   University of Texas at Austin (Austin, TX) Bachelor of Science in
-    Physics, 2004
+## professional experience
+
+-   2024 -- 2025, Cleanroom Laboratory Technician\
+    Astro Pak Corporation, Titusville, FL.
+
+-   2018 -- 2022, Member and Co-Organizer\
+    NASA HUNCH Organization, Aviation Academy, Newport News, VA.
 
 ## academic experience
 
 ### positions
 
--   2023 -- Present, Professor, Department of Computational Mathematics,
-    Science, and Engineering
+-   2025 -- Present, Student Researcher, Department of Physics and Planetary Sciences,
+    University of Central Florida
 
--   2023 -- Present, Lappan-Phillips Professor of Physics Education,
-    Department of Physics and Astronomy, Michigan State University
+-   2022 -- 2024, Student Researcher and Laboratory Technician,
+    Department of Natural Sciences, Michigan State University
 
--   2020 -- 2023, Associate Professor, Department of Computational
-    Mathematics, Science, and Engineering
+-   2023 -- Topology Research Intern, Department of Mathematics, Michigan State University
 
--   2018 -- 2023, Lappan-Phillips Associate Professor of Physics
-    Education, Department of Physics and Astronomy, Michigan State
-    University
+-   2022 -- 2023, Teaching Assistant, Department of Mathematics, Michigan State University
 
--   2017 -- Present, Adjunct Associate Professor, Department of Physics,
-    University of Oslo
+-   2021 -- 2022, Teaching Assistant, Department of Physics, Embry-Riddle Aeronautical University
 
--   2013 -- Present, Affiliated Faculty, CREATE for STEM Institute,
-    Michigan State University
-
--   2013 -- 2018, Assistant Professor, Department of Physics and
-    Astronomy, Michigan State University
-
--   2011 -- 2013, Postdoctoral Researcher, Department of Physics,
-    University of Colorado Boulder
-
--   2011 -- 2013, Research Affiliate, School of Physics, Georgia
-    Institute of Technology
-
--   2005 -- 2011, Graduate Teaching and Research Assistant, School of
-    Physics, Georgia Institute of Technology
+-   2020 -- 2022, Researcher, Society for Hydroponic and Aquaponic Systems, Embry-Riddle Aeronautical University
 
 ### awards and honors
 
--   2023 -- Fellow of the American Physical Society, Group on Physics
-    Education Research
-    [\[Press\]](https://aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=2022&unit_id=GPER&institution=)\
-    *"For foundational research and development on the roles of
-    computation in physics education and contributions to research on
-    undergraduate and graduate education in physics."*
+-   2025 -- Univeristy of Central Florida Trustees Doctoral Fellowship,\
+    *"For multi-year support to the most nominated applicants to the institution. Offers $25,000 per year for four years."*
 
--   2023 -- APS Education Prize, Partnership for the Integration of
-    Computing in Undergraduate Physics, Team Member
+-   2023, 2024 -- Michigan State University Dean’s Research Scholar,\
     [\[Press\]](https://aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Caballero&first_nm=Marcos&year=2023)\
-    *"For developing an active, inclusive, and supportive community of
-    physics educators dedicated to integrating computation into their
-    instruction; creating, reviewing, and disseminating instructional
-    materials; and generating knowledge of computation in physics
-    curricula and of effective practices."*
+    *"$1,500 scholarship, twice offered, for demonstration of excellent research in the Department of Natural Science."*
 
--   2022 -- Physical Review PER Editor's Suggestion (Topic:
-    Computational Physics Education): *Student' perspectives on
-    computational challenges in physics class*
-    [\[Paper\]](https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.18.020109)
+-   2024 -- Michigan State University [U.U.R.A.F.](https://urca.msu.edu/forums/uuraf-2024) First Place Award.
 
--   2022 -- Department Award for Improving Undergraduate Physics
-    Education, Team Member, American Physical Society
-    [\[Press\]](https://natsci.msu.edu/news/msu-recognized-for-physics-undergraduate-education-excellence/)
+-   2023 -- Pui Kei Wong Endowed Scholarship\
+    [\[PDF]](https://natsci.msu.edu/_assets/files/students/current/undergraduate/2023-2024-scholarship-recipients.pdf)
+    *"$4,000 scholarship for demonstration of academic and research success as a Junior currently enrolled in a Bachelors of Science."*
 
--   2021 -- Physical Review PER Editor's Suggestion (Topic: Quantitative
-    Methods for Education Research): *Framework for evaluating
-    statistical models in physics education research*
-    [\[Paper\]](https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.17.020104)
+-   2023 -- Michigan State University Hampton Roads Spartans Scholarship Fund
 
--   2021 -- Physical Review PER Editor's Suggestion (Topic: Graduate
-    Physics Education): *Physics Graduate Record Exam does not help
-    applicants "stand out"*
-    [\[Paper\]](https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.17.010144)
+-   2022,2023,2024 -- Michigan State University Dean's List.
 
--   2019 -- Physical Review PER Editor's Suggestion (Topic:
-    Computational Physics Education): *Physics computational literacy:
-    An exploratory case study using computational essays*
-    [\[Paper\]](https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.15.020152)
+-   2020, 2021, 2022 -- Gear Up Virginia (GUV) Scholarship\
+    *"$2,500 semesterly scholarship, renewed for two years."*
 
--   2019 -- Physics Education Research Conference Notable Paper
-    [\[Press\]]({https://www.compadre.org/per/items/detail.cfm?ID=15226})
+-   2020 -- Embry-Riddle Aeronautical University Presidential Scholarship\
+    *"Merit-based award in the amount of $26,000 given to incoming first-time freshman students."*
 
--   2019 -- Featured in MSU Today for Teaching Innovation
-    [\[Press\]](https://msutoday.msu.edu/feature/2019/bringing-new-energy-to-physics-education/)
+-   2020 -- Embry-Riddle Aeronautical University Women of Excellence Award\
+    *"Merit-based award in the amount of $5,000 given to incoming first-time, female freshman students."*
 
--   2018 -- President's Distinguished Teaching Award, MSU
-    [\[Press\]]({http://msutoday.msu.edu/news/2017/2018-presidents-distinguished-teaching-award/})
+-   2020, 2021, 2022 -- Embry-Riddle Aeronautical University Dean's List
 
--   2018 -- Teacher-Scholar Award, MSU
-    [\[Press\]](https://msutoday.msu.edu/news/2018/2018-teacher-scholar-awards/)
+-   2018 -- National Academy of Future Scientists and Technologists Award of Excellence
 
--   2017 -- Featured in MSU Today for NSF grant
-    [\[Press\]](https://msutoday.msu.edu/news/2017/12m-nsf-grant-helps-integrate-computational-science-into-high-school-physics/)
-
--   2016 -- Physics Education Research Conference Notable Paper
-    [\[Press\]]({http://www.compadre.org/per/items/detail.cfm?ID=14186})
-
--   2016 -- College of Natural Science Teaching Prize, MSU
-
--   2015 -- Thomas H. Osgood Memorial Awards for Faculty Excellence in
-    Teaching, MSU
-
--   2014 -- STEM Gateway Fellow, College of Natural Science, MSU
-
--   2011 -- Tower Award, Georgia Institute of Technology
-
--   2010 -- CETL/BP Outstanding Graduate TA Award Finalist, Georgia
-    Institute of Technology
-
--   2009 -- CETL/BP Outstanding Graduate TA Award, Georgia Institute of
-    Technology
-
--   2007 - 2008 -- Teaching Assistant of the Year, American Association
-    of Physics Teachers
-
--   2007 - 2011-- Gozuieta Fellow, Georgia Institute of Technology
-
--   2007 -- Travel Grant, Technical University of Denmark
-
--   2006 -- Tower Award, Georgia Institute of Technology
+-   2013 -- President Obama’s Education Award
